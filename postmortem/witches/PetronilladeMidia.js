@@ -1,0 +1,15 @@
+var PetronilladeMidia = {
+    name: "Petronilla de Midia, or de Meath",
+    description: "Petronilla de Midia is a witch who makes a concoction of cock's entrails, worms and hair from a dead boy's backside, which she mixes in the skull of a decapitated robber in Ireland.",
+    specialAbility: "making a brew",
+    health: 100,
+    attack: 10,
+    stamina: 100,
+    strength: 100,
+    torture: 100,
+    intelligence: 100,
+    wisdom: 100,
+    charisma: 100,
+    luck: 100,
+    magicResistance: 100,
+}

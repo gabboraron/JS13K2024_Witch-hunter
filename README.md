@@ -85,4 +85,5 @@ To get more information about the witches, you can check the links below:
 - [Polissena of SanMacario](https://en.wikipedia.org/wiki/Polissena_of_SanMacario)
 - [Ursula Kemp](https://en.wikipedia.org/wiki/Ursula_Kemp)
 
-
+----------------------------------------------------------------
+<center> Creaated with ❤️ |  All rights reserved!</center>

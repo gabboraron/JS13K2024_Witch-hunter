@@ -1,0 +1,17 @@
+const charlesBorromeo = {
+    name: "Charles Borromeo",
+    age: 20,
+    gender: "male",
+    occupation: "Cardinal, Archbishop of Milan",
+    description: "Charles Borromeo is a Cardinal and Archbishop of Milan. He is known for his ability to hunt witches and his belief in the supernatural. He can find the heresy in the church and punish the heretics. He is a devout Christian and easily decide about life and death of the heretics.",
+    witchsense: 110,
+    health: 13,
+    stamina: 100,
+    strength: 100,
+    torture: 100,
+    intelligence: 80,
+    wisdom: 100,
+    charisma: 100,
+    luck: 70,
+    magicresistance: 60,
+}

@@ -1,0 +1,15 @@
+var MicheeChauderon = {
+    name: "Michée Chauderon",
+    description: "Michée Chauderon is a witch who is known for her ability to summon a demon. She is living in Geneva.",
+    specialAbility: "summon a demon",
+    health: 100,
+    attack: 20,
+    stamina: 100,
+    strength: 100,
+    torture: 100,
+    intelligence: 100,
+    wisdom: 100,
+    charisma: 100,
+    luck: 100,
+    magicResistance: 100,
+}
