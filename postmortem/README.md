@@ -75,7 +75,7 @@
 > [![https://youtu.be/c4Uj-spZBOA](witchhuntergameplay.jpg)](https://youtu.be/c4Uj-spZBOA)
 
 ## Tech stack
-> To create the game I used [cursor](https://www.cursor.com) IDE. To refresh my full-stack knowledge I used JS and A-frame with HTML5. Tested on Desktop and Meta Quest 2.
+> To create the game I used [cursor](https://www.cursor.com) IDE. To refresh my full-stack knowledge I used JS and A-frame with HTML5. Tested on Desktop and Meta Quest 2. To minify the game I used [HTML minifier](https://kangax.github.io/html-minifier/?ref=NEOXION.NET%20ultimate.internet.link.collection) and [minify HTML](https://codebeautify.org/minify-html) [Digital Ocean's JS minifier](https://www.digitalocean.com/community/tools/minify). To change the environment I used [aframe-environment-component](https://github.com/supermedium/aframe-environment-component) and to test it I set up an Xampp local server. 
 
 ----------------------------------------------------------------
 <center> Creaated with ❤️ |  All rights reserved!</center>
