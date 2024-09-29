@@ -6,7 +6,7 @@
 > I have passion for history and religion history since high school, especially about the witch hunts and the Inquisition, so when I saw, the topic [*"Triskaidekaphobia"*](https://medium.com/js13kgames/js13kgames-2024-start-and-theme-announcement-5d734f77da68) and the deadline of the competition is September 13, Friday I thought this is a sign. Let's create a game about witch hunts and inquisition. My initial idea was to create a mysterious role-playing game where the player is an inquisitor-detector, to find the witches and fight with them, torture them, and kill them. Of course, the number of witches should be 13 in this case. Because of this, I started to create a list of famous witches, that can fit into mainstream thinking. Here is the list of them: 
 >
 > | Character data in game | Wikipedia page about the witch |
-> | -------------------------------------- | ------------------------------------------------------------------------------------   |
+> | ------------ | ------------------------------------- |
 > | [Agnes Waterhouse](witches/AgnesWaterhouse.js) | [*Wikipedia page of* Agnes Waterhouse](https://en.wikipedia.org/wiki/Agnes_Waterhouse) |
 > | [Catherine Peyretone](witches/CatherinePeyretone.js) | [*Wikipedia page of* Catherine Peyretone](https://en.wikipedia.org/wiki/Catherine_Peyretone) |
 > | [Elisabeth Plainacher](witches/ElisabethPlainacher.js) | [*Wikipedia page of* Elisabeth Plainacher](https://en.wikipedia.org/wiki/Elisabeth_Plainacher) |
@@ -27,11 +27,11 @@
 > | ------------ | ------------------------------------- |
 > | ![agnes waterhouse](witches/aw.png) | ![Agnes in the Wikipedia](https://upload.wikimedia.org/wikipedia/commons/e/ef/Agnes_Waterhouse.jpg) |
 > | ![Catherine](witches/cp.png) | ![](https://upload.wikimedia.org/wikipedia/commons/5/59/Catherine_Deshayes_%28Monvoisin%2C_dite_«La_Voisin»%29_1680.jpg) |
-> | ![Elisabeth](witches/ep.png) | ![https://www.meinbezirk.at/wien/c-lokales/das-malefiz-spitzbubenhaus-hexenverbrennung-in-wien_a6657393#gallery=default&pid=39499161](https://en.wikipedia.org/wiki/Elisabeth_Plainacher#/media/File:BERMANN(1880)_p0884_Die_einzige_Hexenverbrennung_zu_Wien.jpg) |
+> | ![Elisabeth](witches/ep.png) | ![https://www.meinbezirk.at/wien/c-lokales/das-malefiz-spitzbubenhaus-hexenverbrennung-in-wien_a6657393#gallery=default&pid=39499161](https://media04.meinbezirk.at/article/2024/04/27/1/39499161_XXL.jpg?1714302982) ![https://en.wikipedia.org/wiki/Elisabeth_Plainacher#/media/File:BERMANN(1880)_p0884_Die_einzige_Hexenverbrennung_zu_Wien.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/BERMANN%281880%29_p0884_Die_einzige_Hexenverbrennung_zu_Wien.jpg/800px-BERMANN%281880%29_p0884_Die_einzige_Hexenverbrennung_zu_Wien.jpg) |
 > | ![](witches/gl.png) | This one is fictional because there is no image about her |
 > | ![](witches/gs.png) | ![https://www.instagram.com/devforst/p/CwSycbCREFb/?img_index=1](https://www.instagram.com/devforst/p/CwSycbCREFb/?img_index=1) |
 > | ![](witches/jj.png) | ![https://prezi.com/0a-s1t2zik-t/johannes-junius/](https://prezi.com/0a-s1t2zik-t/johannes-junius/) |
-> | ![](witches/lg.png) | ![](https://glamiscalling.org/wp-content/uploads/2019/03/lady-janet2.jpg?w=230&h=303) |
+> | ![](witches/lg.png) | ![https://glamiscalling.org/wp-content/uploads/2019/03/lady-janet2.jpg?w=230&h=303](https://glamiscalling.org/wp-content/uploads/2019/03/lady-janet2.jpg?w=230&h=303) |
 > | ![Lasses Birgitta](witches/lb.png) | no image |
 > | ![](witches/ma.png) | ![](https://tallandspooky.wordpress.com/wp-content/uploads/2020/12/maridje-arriens-1.jpeg) |
 > | ![](witches/pm.png) | ![](https://boattrips-6cab.kxcdn.com/wp-content/uploads/2024/02/Petronilla-de-Meath-on-trial-e1708103103367.jpeg) |
@@ -53,10 +53,10 @@
 > | Inquisitor's in-game representation | Historical representation |
 > | ------------------------------ | ------------------------- |
 > | ![Matthew Hopkins](characters/mh.png) |  ![https://www.hoddereducationmagazines.com/magazine/hindsight/31/1/matthew-hopkins-c-1620-47/](https://www.hoddereducationmagazines.com/wp-content/uploads/sites/5/2022/04/import/hindsight_2020_09_01-imagesimg34_1_jpg-adfc967bbdacbc32f032c4fefd06248c.jpg) |
-> | ![Jacob Sprenger](characters/js.png) |  ![https://prabook.com/web/jacob.sprenger/3727351](https://prabook.com/web/show-photo-icon.jpg?id=1566144&width=220&cache=false) |
-> | ![Charles Borromeo](characters/cb.png) | ![https://en.wikipedia.org/wiki/Charles_Borromeo](https://en.wikipedia.org/wiki/Charles_Borromeo#/media/File:Carlo_Borromeo.jpg) |
+> | ![Jacob Sprenger](characters/js.png) |  ![https://prabook.com/web/jacob.sprenger/3727351](https://static.wikia.nocookie.net/denstoredjaevlekrig/images/8/87/Jacob_Sprenger.jpg/revision/latest?cb=20211219145227&path-prefix=da) |
+> | ![Charles Borromeo](characters/cb.png) | ![https://en.wikipedia.org/wiki/Charles_Borromeo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Carlo_Borromeo.jpg/800px-Carlo_Borromeo.jpg) |
 > | ![Samuel Parris](characters/sp.png) | ![https://www.legendsofamerica.com/ma-samuelparris/](https://www.legendsofamerica.com/wp-content/uploads/2018/01/Samuel_Parris.jpg) |
-> | ![Heinrich Kramer](characters/hk.png) | ![https://thehistorianshut.com/2017/02/27/the-malleus-maleficarum-heinrich-kramer-and-james-sprenger/](https://i0.wp.com/thehistorianshut.com/wp-content/uploads/2017/02/75974-malleus2bmaleficarum2bon2bthe2bpriesthood2bquotepic.jpg?fit=1600%2C1156&ssl=1) |
+> | ![Heinrich Kramer](../hk.png) | ![https://thehistorianshut.com/2017/02/27/the-malleus-maleficarum-heinrich-kramer-and-james-sprenger/](https://i0.wp.com/thehistorianshut.com/wp-content/uploads/2017/02/75974-malleus2bmaleficarum2bon2bthe2bpriesthood2bquotepic.jpg?fit=1600%2C1156&ssl=1) |
 >
 > More about the inquisitors in the [characters/README.md](characters/README.md)
 
